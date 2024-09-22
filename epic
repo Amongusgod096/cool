@@ -1,2 +1,2 @@
 wait("0.2")
-game.Players.EG_NOlIMIT:Destroy()
+game.Workspace.imthebestbaconhair23.head:Destroy()
