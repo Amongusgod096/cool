@@ -1,2 +1,2 @@
-wait("0.2")
+wait(0.2)
 game.workspace.imthebestbaconhair23.Head:Destroy()
